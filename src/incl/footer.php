@@ -1,6 +1,6 @@
 <footer>
     <p>
-    door Gerben & Oguzhan
+    door Gerben, Oguzhan & Yilmaz
     </p>
 </footer>
 </html>

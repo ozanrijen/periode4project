@@ -1,3 +1,18 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: lightgray;
+    padding: 0 1em;
+    width: 100%;
+    text-align: center;
 }
